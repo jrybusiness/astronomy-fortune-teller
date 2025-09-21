@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/astronomy-fortune-teller/static/css/main.c45a6422.css",
+    "main.js": "/astronomy-fortune-teller/static/js/main.b4ebc534.js",
+    "static/js/453.f525e59a.chunk.js": "/astronomy-fortune-teller/static/js/453.f525e59a.chunk.js",
+    "index.html": "/astronomy-fortune-teller/index.html",
+    "main.c45a6422.css.map": "/astronomy-fortune-teller/static/css/main.c45a6422.css.map",
+    "main.b4ebc534.js.map": "/astronomy-fortune-teller/static/js/main.b4ebc534.js.map",
+    "453.f525e59a.chunk.js.map": "/astronomy-fortune-teller/static/js/453.f525e59a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45a6422.css",
+    "static/js/main.b4ebc534.js"
+  ]
+}
