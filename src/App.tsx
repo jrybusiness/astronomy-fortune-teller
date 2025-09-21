@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { ZODIAC_SIGNS, ASTROLOGER_STYLES } from './constants';
+import { ASTROLOGER_STYLES } from './constants';
 import { ZodiacOption, Timeframe, AstrologerOption } from './types';
 import { generateHoroscope } from './services/geminiService';
 import Header from './components/Header';
